@@ -18,8 +18,8 @@ I've tweaked the DeviceDisplaySurePOS.java class in Chromis POS source code to m
 
 
 
-And configuring Chromis POS for use it:
-ClientVisor: SurePOS
-Mode: serial
-Port: COM10
+And configuring Chromis POS for use it:<br/>
+ClientVisor: SurePOS<br/>
+Mode: serial<br/>
+Port: COM10<br/>
 Save and Restart
