@@ -5,7 +5,8 @@
  * to create a Point of Sale Screen to use with Chromis POS
  */
 
-/* You need install LiquidCrystalFasth library before */ 
+/* You need install the files in my custom LiquidCrystalFasth library located at https://github.com/RndMnkIII/LiquidCrystalFast_Progmemfix or update if already installed
+   in <User-directory>\Documents\Arduino\libraries\LiquidCrystalFast */
 #include <LiquidCrystalFast.h>
 
 /* Initialize library with the following pin usage:
