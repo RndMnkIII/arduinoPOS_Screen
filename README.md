@@ -1,5 +1,5 @@
 # arduinoPOS_Screen
-Arduino project to use a Point of Sale screen with Chromis POS
+Arduino project to use a Point of Sale screen with a modified Chromis POS branch https://github.com/RndMnkIII/chromispos
 
 This is a proof of concept, not a final release or stable release software. I assume no liability for software defects or malfunctions. Use it as an experimental software at your own risk.
 
