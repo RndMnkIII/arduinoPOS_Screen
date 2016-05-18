@@ -10,6 +10,8 @@ a Point of Sale computer running Chromis POS. To display the data I've used a  L
 
 The arduino is programmed to loop all time reading the characters received by the usb virtual serial port.
 
+You need to install the FTDI drivers from: http://www.ftdichip.com/FTDrivers.htm
+
 To configure this serial port I need to configure the serial port before start Chromis POS, for example under Windows OS:
 adding in the start.bat file the following line before start Chromis, asuming the COM10 port is asigned to Arduino:
 MODE COM10 BAUD=9600 PARITY=n DATA=8 STOP=1
