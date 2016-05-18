@@ -8,6 +8,11 @@ a Point of Sale computer running Chromis POS. To display the data I've used a  L
 
 ![Schematic](https://github.com/RndMnkIII/arduinoPOS_Screen/blob/master/schematic.jpg)
 
+You'll need to install before the LiquidCrystalFast library:
+https://github.com/Swap-File/tron-suit/tree/master/Helmet/Software/Libraries/LiquidCrystalFast
+with the following tweaks: 
+https://github.com/RndMnkIII/LiquidCrystalFast_Progmemfix
+
 The arduino is programmed to loop all time reading the characters received by the usb virtual serial port.
 
 You need to install the FTDI drivers from: http://www.ftdichip.com/Drivers/VCP.htm
